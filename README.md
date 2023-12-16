@@ -8,7 +8,7 @@ This is just a list of useful software
 
 Browser : [Firefox](https://www.mozilla.org/firefox/all)
 <br>Extensions :
-<br>	- [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin)
+<br>	- [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin) ([config](<configs/uBlock Origin.json>))
 <br> 	- [I still don't care about cookies](https://addons.mozilla.org/firefox/addon/istilldontcareaboutcookies)
 <br>	- [FastForward](https://addons.mozilla.org/firefox/addon/fastforwardteam)
 <br>	- [Skip Redirect](https://addons.mozilla.org/firefox/addon/skip-redirect)
