@@ -9,7 +9,7 @@
 	"loggingStatus": false,
 	"log": "",
 	"statisticsStatus": true,
-	"badged_color": "#FFA500",
+	"badged_color": "#666666",
 	"hashURL": "https://rules2.clearurls.xyz/rules.minify.hash",
 	"ruleURL": "https://rules2.clearurls.xyz/data.minify.json",
 	"contextMenuEnabled": true,
